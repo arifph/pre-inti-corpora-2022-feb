@@ -1,0 +1,11 @@
+/opt/lampp/htdocs/pre-inti-corpora-2022-feb/src/main/java/com/preTest/backend/demo/service/impl/UserServiceImpl.java
+/opt/lampp/htdocs/pre-inti-corpora-2022-feb/src/main/java/com/preTest/backend/demo/service/UserService.java
+/opt/lampp/htdocs/pre-inti-corpora-2022-feb/src/main/java/com/preTest/backend/demo/model/User.java
+/opt/lampp/htdocs/pre-inti-corpora-2022-feb/src/main/java/com/preTest/backend/demo/DemoApplication.java
+/opt/lampp/htdocs/pre-inti-corpora-2022-feb/src/main/java/com/preTest/backend/demo/service/impl/UserContactServiceImpl.java
+/opt/lampp/htdocs/pre-inti-corpora-2022-feb/src/main/java/com/preTest/backend/demo/repository/UserRepository.java
+/opt/lampp/htdocs/pre-inti-corpora-2022-feb/src/main/java/com/preTest/backend/demo/controller/UserContactController.java
+/opt/lampp/htdocs/pre-inti-corpora-2022-feb/src/main/java/com/preTest/backend/demo/service/UserContactService.java
+/opt/lampp/htdocs/pre-inti-corpora-2022-feb/src/main/java/com/preTest/backend/demo/model/UserContact.java
+/opt/lampp/htdocs/pre-inti-corpora-2022-feb/src/main/java/com/preTest/backend/demo/controller/UserController.java
+/opt/lampp/htdocs/pre-inti-corpora-2022-feb/src/main/java/com/preTest/backend/demo/repository/UserContactRepository.java

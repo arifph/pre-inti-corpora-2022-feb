@@ -1,0 +1,13 @@
+com/preTest/backend/demo/service/impl/UserServiceImpl.class
+com/preTest/backend/demo/model/User$UserBuilder.class
+com/preTest/backend/demo/service/UserService.class
+com/preTest/backend/demo/service/UserContactService.class
+com/preTest/backend/demo/repository/UserContactRepository.class
+com/preTest/backend/demo/repository/UserRepository.class
+com/preTest/backend/demo/model/UserContact.class
+com/preTest/backend/demo/model/UserContact$UserContactBuilder.class
+com/preTest/backend/demo/model/User.class
+com/preTest/backend/demo/controller/UserContactController.class
+com/preTest/backend/demo/DemoApplication.class
+com/preTest/backend/demo/service/impl/UserContactServiceImpl.class
+com/preTest/backend/demo/controller/UserController.class
