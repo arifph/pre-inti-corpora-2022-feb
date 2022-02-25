@@ -1,7 +1,6 @@
 package com.preTest.backend.demo.model;
 
 import javax.persistence.*;
-
 import lombok.*;
 
 @Data
@@ -18,6 +17,5 @@ public class UserContact {
   @Column(name = "address", length = 30, nullable = false)
   String address;
 
-  @ManyToOne
-  User user;
+  @ManyToOne User user;
 }

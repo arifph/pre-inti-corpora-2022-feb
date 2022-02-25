@@ -18,8 +18,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class UserController {
   @Autowired UserService userService;
 
-  @Autowired
-  UserContactService userContactService;
+  @Autowired UserContactService userContactService;
 
   @GetMapping(path = "/getAll", produces = "application/json")
   public ResponseEntity<List<User>> getUser() {
